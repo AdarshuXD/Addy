@@ -281,7 +281,7 @@ ABOUT_BTN = [
            InlineKeyboardButton(text="✨ Back ✨", callback_data="BACK"),
       ],
 ]
-SOURCE_READ = f"**Hey, The Source Code Of[{BOT_NAME}](https://t.me/{BOT_USERNAME}) Is Given Below.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ Please Fork The Repo & Give The Star ✯**\n**──────────────────**\n**Here Is The Source Code [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ Source Code](Love_You_Ad.t.me)**\n**──────────────────**\n**If You Face Any Problem Then Conty At[Support Chat](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**Hey, The Source Code Of[{BOT_NAME}](https://t.me/{BOT_USERNAME}) Is Given Below.**\n**Please Fork The Repo & Give The Star ✯**\n**──────────────────**\n**Here Is The Source Code [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ Source Code](Love_You_Ad.t.me)**\n**──────────────────**\n**If You Face Any Problem Then Conty At[Support Chat](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ABOUT_READ = f"""
 **➻ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) Is An AI Based Chat-Bot.**
